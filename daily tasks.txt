@@ -1,0 +1,18 @@
+1. create a js file
+2. add the function to handle the input in js file
+	a)receive username from input box
+	b)printing the received username in html page	
+3. linking the js with html file using <script>
+
+
+
+Questions in javascript to search
+1. How to print a value in js
+2. diff between var let and const
+3. how to define a function in js and call it
+4. what are all the available operators in js
+5. datatypes available in js
+
+
+create an account in the github.com and write down 
+the username 
